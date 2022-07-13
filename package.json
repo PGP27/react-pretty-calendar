@@ -14,7 +14,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/PGP27/react-pretty-calendar/issues"
   },
@@ -25,6 +25,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "rollup": "^2.76.0",
+    "rollup-plugin-sass": "^1.2.12",
     "rollup-plugin-typescript2": "^0.32.1",
     "typescript": "^4.7.4"
   }
